@@ -1,0 +1,43 @@
+body {
+  background-color: #eee;
+}
+
+h1 {
+  text-align: center;
+}
+
+.content {
+  width: 410px;
+  background-color: #fff;
+  margin: 30px auto 0;
+  padding: 10px 15px 20px;
+  border-radius: 3px;
+  box-shadow: 1px 1px 3px 3px #999;
+}
+
+.container {
+  padding: 0;
+}
+
+input.col-6 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+span.col-5 {
+  padding-right: 5px;
+}
+
+span.col-1 {
+  text-align: right;
+  padding-left: 0;
+}
+
+#block {
+  width: 200px;
+  height: 200px;
+  border: 1px solid #333;
+  background-color: #e61f59;
+  background-image: radial-gradient(ellipse farthest-corner at right bottom, #ADC0CE 0%, #E61F59 50%, #E4E4E4 100%);
+  margin: 15px auto 0;
+}
